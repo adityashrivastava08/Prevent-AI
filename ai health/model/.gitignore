@@ -28,6 +28,9 @@ output.log
 *.tmp
 *.temp
 
+# Environment secrets
+.env
+
 # Datasets & training artifacts (not needed at runtime)
 health ai/plots/
 health ai/diabetes_prediction_dataset.csv/
