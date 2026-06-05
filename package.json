@@ -1,0 +1,7 @@
+{
+  "name": "prevent-ai-root",
+  "private": true,
+  "scripts": {
+    "build": "npm run build --prefix \"ai health/frontend\""
+  }
+}

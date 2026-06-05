@@ -1,0 +1,9 @@
+{
+  "outputDirectory": "ai health/frontend/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
