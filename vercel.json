@@ -1,4 +1,6 @@
 {
+  "installCommand": "npm ci --prefix \"ai health/frontend\"",
+  "buildCommand": "npm run build --prefix \"ai health/frontend\"",
   "outputDirectory": "ai health/frontend/dist",
   "rewrites": [
     {

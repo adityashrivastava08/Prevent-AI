@@ -2,6 +2,7 @@
   "name": "prevent-ai-root",
   "private": true,
   "scripts": {
+    "install:frontend": "npm ci --prefix \"ai health/frontend\"",
     "build": "npm run build --prefix \"ai health/frontend\""
   }
 }
